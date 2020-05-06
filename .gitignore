@@ -1,0 +1,7 @@
+# I use VS-Code.
+.vscode
+.history
+
+# These are always a pain.
+__pycache__
+
